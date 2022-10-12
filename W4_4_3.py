@@ -1,4 +1,3 @@
-import sys
 import math #Wird gebraucht um die Funktion math.pi zu nutzen
 
 rayon = float(input("Rayon:")) #Float, damit auch Dezimalzahlen als Radius eingegeben werden können
