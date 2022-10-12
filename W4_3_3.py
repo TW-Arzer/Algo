@@ -1,4 +1,4 @@
 prenom = "Max"
-Jg = 2000
+Jg = 22
 
-print(nom, Jg)
+print(type(prenom), type(Jg))
