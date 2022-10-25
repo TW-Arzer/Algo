@@ -51,7 +51,7 @@ public class W6_B6_1 { //gemäss Aufgabenstellung: W6_B6_1 an allen Positionen m
         System.out.println("He is a " + hisDog.getRace());
         System.out.println("He is already " + hisDog.getAge() + " years old.");
         
-        System.out.println("We have " + nb_chiens " Dogs here.");
+        System.out.println("We have " + nb_chiens + " Dogs here.");
 
     }
 
