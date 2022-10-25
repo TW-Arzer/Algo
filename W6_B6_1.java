@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class W6_B6_1 {
+public class W6_B6_1 { //gemäss Aufgabenstellung: W6_B6_1 an allen Positionen mit Dog ersetzten
     public String name;
     private List tricks;
     private String race;
@@ -39,7 +39,7 @@ public class W6_B6_1 {
 
         W6_B6_1 hisDog = new W6_B6_1();
         hisDog.setDog("Peter", List.of("Sit", "Stay", "Go"), "Deutscher Schäferhund", 2);
-
+     
         System.out.println("His Name is: " + myDog.getName());
         System.out.println("He can do: " + myDog.getTricks());
         System.out.println("He is a " + myDog.getRace());
