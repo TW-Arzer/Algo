@@ -38,7 +38,7 @@ public class W6_B6_1 {
         myDog.setDog("Bello", List.of("Handstand", "Sit", "Stay"), "Mops", 26);
 
         W6_B6_1 hisDog = new W6_B6_1();
-        hisDog.setDog("Adolf", List.of("Zurückschiessen", "Marschieren", "Front verteidigen"), "Deutscher Schäferhund", 88);
+        hisDog.setDog("Peter", List.of("Sit", "Stay", "Go"), "Deutscher Schäferhund", 2);
 
         System.out.println("His Name is: " + myDog.getName());
         System.out.println("He can do: " + myDog.getTricks());
